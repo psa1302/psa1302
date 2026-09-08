@@ -13,10 +13,35 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, a Klip
 
 ## Now
 
-- Building **grid-readiness AI agents** with LangGraph that de-risk datacenter land acquisition.
-- Running **[NewsDoggo](https://newsdoggo.com)**, an autonomous newshouse where AI agents write and publish the news every day.
-- Shipping **[Cue](https://cue2.hstpowers.com)** and **[View](https://view2.hstpowers.com)**, the marketplace and portfolio platform behind solar projects.
-- Tuning input shaping on a Kobra 2 Neo and drilling JLPT N5 kanji.
+<table>
+  <tr>
+    <td width="56"><img src="assets/logos/grid-agents.png" width="48" height="48" /></td>
+    <td><b>Grid-readiness AI agents</b></td>
+    <td>LangGraph agents that de-risk datacenter land acquisition, from grid data to diligence documents.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/newsdoggo.png" width="48" height="48" /></td>
+    <td><b><a href="https://newsdoggo.com">NewsDoggo</a></b></td>
+    <td>An autonomous newshouse: AI agents collect, write, edit, and publish the news every day.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/cue.png" width="48" height="48" /></td>
+    <td><b><a href="https://cue2.hstpowers.com">Cue</a></b></td>
+    <td>Marketplace matching solar developers with landowners, and datacenters with clean energy.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/view.png" width="48" height="48" /></td>
+    <td><b><a href="https://view2.hstpowers.com">View</a></b></td>
+    <td>Solar project portfolio platform with maps, KML, and weather data.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/solar-services.png" width="48" height="48" /></td>
+    <td><b>Solar platform services</b></td>
+    <td>Energy market models, layout optimisation, and GIS analysis behind View.</td>
+  </tr>
+</table>
+
+After hours: input shaping on a Kobra 2 Neo and JLPT N5 kanji.
 
 ## Tools & toys
 
