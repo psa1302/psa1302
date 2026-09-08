@@ -22,10 +22,10 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, a Klip
 
 | | | |
 |---|---|---|
-| <img src="assets/logos/pi-airplay.png" width="28" /> | **[Pi Speakers](https://github.com/psa1302/pi_airplay)** | A Raspberry Pi feeding AirPlay 2, Spotify Connect, and Bluetooth to old speakers, with a themed LCD dashboard. |
-| <img src="assets/logos/corne.png" width="28" /> | **[Corne keyboards](https://github.com/psa1302/zmk-config)** | Split keyboards I build and solder myself, running my ZMK firmware. |
-| <img src="assets/logos/klipper.png" width="28" /> | **[Kobra 2 Neo on Klipper](https://github.com/psa1302/klipper-config)** | Sensorless homing, measured input shaping, and macros for a heavily modified printer. |
-| <img src="assets/logos/stroke-practise.png" width="28" /> | **[Stroke Practise](https://strokepractise.vercel.app)** | Kanji stroke-order practice that grades each stroke as you draw. |
+| <img src="assets/logos/pi-airplay.png" width="48" height="48" /> | **[Pi Speakers](https://github.com/psa1302/pi_airplay)** | A Raspberry Pi feeding AirPlay 2, Spotify Connect, and Bluetooth to old speakers, with a themed LCD dashboard. |
+| <img src="assets/logos/corne.png" width="48" height="48" /> | **[Corne keyboards](https://github.com/psa1302/zmk-config)** | Split keyboards I build and solder myself, running my ZMK firmware. |
+| <img src="assets/logos/klipper.png" width="48" height="48" /> | **[Kobra 2 Neo on Klipper](https://github.com/psa1302/klipper-config)** | Sensorless homing, measured input shaping, and macros for a heavily modified printer. |
+| <img src="assets/logos/stroke-practise.png" width="48" height="48" /> | **[Stroke Practise](https://strokepractise.vercel.app)** | Kanji stroke-order practice that grades each stroke as you draw. |
 
 ## Stack
 
