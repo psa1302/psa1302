@@ -20,12 +20,28 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, a Klip
 
 ## Tools & toys
 
-| | | |
-|---|---|---|
-| <img src="assets/logos/pi-airplay.png" width="48" height="48" /> | **[Pi Speakers](https://github.com/psa1302/pi_airplay)** | A Raspberry Pi feeding AirPlay 2, Spotify Connect, and Bluetooth to old speakers, with a themed LCD dashboard. |
-| <img src="assets/logos/corne.png" width="48" height="48" /> | **[Corne keyboards](https://github.com/psa1302/zmk-config)** | Split keyboards I build and solder myself, running my ZMK firmware. |
-| <img src="assets/logos/klipper.png" width="48" height="48" /> | **[Kobra 2 Neo on Klipper](https://github.com/psa1302/klipper-config)** | Sensorless homing, measured input shaping, and macros for a heavily modified printer. |
-| <img src="assets/logos/stroke-practise.png" width="48" height="48" /> | **[Stroke Practise](https://strokepractise.vercel.app)** | Kanji stroke-order practice that grades each stroke as you draw. |
+<table>
+  <tr>
+    <td width="56"><img src="assets/logos/pi-airplay.png" width="48" height="48" /></td>
+    <td>**[Pi Speakers](https://github.com/psa1302/pi_airplay)**</td>
+    <td>A Raspberry Pi feeding AirPlay 2, Spotify Connect, and Bluetooth to old speakers, with a themed LCD dashboard.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/corne.png" width="48" height="48" /></td>
+    <td>**[Corne keyboards](https://github.com/psa1302/zmk-config)**</td>
+    <td>Split keyboards I build and solder myself, running my ZMK firmware.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/klipper.png" width="48" height="48" /></td>
+    <td>**[Kobra 2 Neo on Klipper](https://github.com/psa1302/klipper-config)**</td>
+    <td>Sensorless homing, measured input shaping, and macros for a heavily modified printer.</td>
+  </tr>
+  <tr>
+    <td width="56"><img src="assets/logos/stroke-practise.png" width="48" height="48" /></td>
+    <td>**[Stroke Practise](https://strokepractise.vercel.app)**</td>
+    <td>Kanji stroke-order practice that grades each stroke as you draw.</td>
+  </tr>
+</table>
 
 ## Stack
 
