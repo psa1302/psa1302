@@ -16,7 +16,7 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, a Klip
 <table>
   <tr>
     <td width="56"><img src="assets/logos/grid-agents.png" width="48" height="48" /></td>
-    <td><b>Grid-readiness AI agents</b></td>
+    <td><b>Grid Readiness AI</b></td>
     <td>LangGraph agents that de-risk datacenter land acquisition, from grid data to diligence documents.</td>
   </tr>
   <tr>
