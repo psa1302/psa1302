@@ -48,22 +48,22 @@ After hours: input shaping on a Kobra 2 Neo and JLPT N5 kanji.
 <table>
   <tr>
     <td width="56"><img src="assets/logos/pi-airplay.png" width="48" height="48" /></td>
-    <td>**[Pi Speakers](https://github.com/psa1302/pi_airplay)**</td>
+    <td><b><a href="https://github.com/psa1302/pi_airplay">Pi Speakers</a></b></td>
     <td>A Raspberry Pi feeding AirPlay 2, Spotify Connect, and Bluetooth to old speakers, with a themed LCD dashboard.</td>
   </tr>
   <tr>
     <td width="56"><img src="assets/logos/corne.png" width="48" height="48" /></td>
-    <td>**[Corne keyboards](https://github.com/psa1302/zmk-config)**</td>
+    <td><b><a href="https://github.com/psa1302/zmk-config">Corne keyboards</a></b></td>
     <td>Split keyboards I build and solder myself, running my ZMK firmware.</td>
   </tr>
   <tr>
     <td width="56"><img src="assets/logos/klipper.png" width="48" height="48" /></td>
-    <td>**[Kobra 2 Neo on Klipper](https://github.com/psa1302/klipper-config)**</td>
+    <td><b><a href="https://github.com/psa1302/klipper-config">Kobra 2 Neo on Klipper</a></b></td>
     <td>Sensorless homing, measured input shaping, and macros for a heavily modified printer.</td>
   </tr>
   <tr>
     <td width="56"><img src="assets/logos/stroke-practise.png" width="48" height="48" /></td>
-    <td>**[Stroke Practise](https://strokepractise.vercel.app)**</td>
+    <td><b><a href="https://strokepractise.vercel.app">Stroke Practise</a></b></td>
     <td>Kanji stroke-order practice that grades each stroke as you draw.</td>
   </tr>
 </table>
