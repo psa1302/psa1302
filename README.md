@@ -36,7 +36,7 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, 3D pri
   </tr>
   <tr>
     <td width="56"><img src="assets/logos/solar-services.png" width="48" height="48" /></td>
-    <td><b>Solar platform services</b></td>
+    <td><b>Solar Platform Services</b></td>
     <td>Energy market models, layout optimisation, and GIS analysis behind View.</td>
   </tr>
 </table>
