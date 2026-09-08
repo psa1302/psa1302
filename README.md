@@ -53,7 +53,7 @@ After hours: input shaping on a Kobra 2 Neo and JLPT N5 kanji.
   </tr>
   <tr>
     <td width="56"><img src="assets/logos/corne.png" width="48" height="48" /></td>
-    <td><b><a href="https://github.com/psa1302/zmk-config">Corne keyboards</a></b></td>
+    <td><b><a href="https://github.com/psa1302/zmk-config">Corne Keyboards</a></b></td>
     <td>Split keyboards I build and solder myself, running my ZMK firmware.</td>
   </tr>
   <tr>
