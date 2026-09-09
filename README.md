@@ -9,6 +9,8 @@ Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, 3D pri
 <a href="https://puneet.sh"><img src="https://img.shields.io/badge/puneet.sh-111827?logo=astro&logoColor=white" alt="puneet.sh" /></a>
 <a href="mailto:hi@puneet.sh"><img src="https://img.shields.io/badge/hi%40puneet.sh-2563EB?logo=maildotru&logoColor=white" alt="Email" /></a>
 
+<img src="assets/icons/langchain.svg" alt="LangChain" title="LangChain" width="40" height="40" />&nbsp;<img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;<img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;<img src="assets/icons/react.svg" alt="React" title="React" width="40" height="40" />&nbsp;<img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;<img src="assets/icons/graphql.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />&nbsp;<img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;<img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;<img src="assets/icons/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="40" height="40" />&nbsp;<img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="40" height="40" />&nbsp;<img src="assets/icons/firebase.svg" alt="Firebase" title="Firebase" width="40" height="40" />&nbsp;<img src="assets/icons/erlang.svg" alt="Erlang" title="Erlang" width="40" height="40" />&nbsp;<img src="assets/icons/python.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;<img src="assets/icons/swift.svg" alt="Swift" title="Swift" width="40" height="40" />&nbsp;<img src="assets/icons/raspberrypi.svg" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40" />&nbsp;
+
 </div>
 
 ## Now
@@ -67,11 +69,3 @@ After hours: input shaping on a Kobra 2 Neo and JLPT N5 kanji.
     <td>Kanji stroke-order practice that grades each stroke as you draw.</td>
   </tr>
 </table>
-
-## Stack
-
-<div align="center">
-
-<img src="assets/icons/langchain.svg" alt="LangChain" title="LangChain" width="40" height="40" />&nbsp;<img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;<img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;<img src="assets/icons/react.svg" alt="React" title="React" width="40" height="40" />&nbsp;<img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;<img src="assets/icons/graphql.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />&nbsp;<img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;<img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;<img src="assets/icons/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="40" height="40" />&nbsp;<img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="40" height="40" />&nbsp;<img src="assets/icons/firebase.svg" alt="Firebase" title="Firebase" width="40" height="40" />&nbsp;<img src="assets/icons/erlang.svg" alt="Erlang" title="Erlang" width="40" height="40" />&nbsp;<img src="assets/icons/python.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;<img src="assets/icons/swift.svg" alt="Swift" title="Swift" width="40" height="40" />&nbsp;<img src="assets/icons/raspberrypi.svg" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40" />&nbsp;
-
-</div>
