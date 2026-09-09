@@ -4,7 +4,7 @@
 
 **Senior Software Engineer. Serial Tinkerer.**
 
-Multi-Agent AI Systems for clean energy by day. Hacking on Raspberry Pis, soldering split keyboards, tuning a 3D printer, and learning Japanese by night.
+Multi-Agent AI Systems for clean energy by day. Raspberry Pis, DIY mechanical keyboards, 3D printing, and learning Japanese by night.
 
 <a href="https://puneet.sh"><img src="https://img.shields.io/badge/puneet.sh-111827?logo=astro&logoColor=white" alt="puneet.sh" /></a>
 <a href="mailto:hi@puneet.sh"><img src="https://img.shields.io/badge/hi%40puneet.sh-2563EB?logo=maildotru&logoColor=white" alt="Email" /></a>
