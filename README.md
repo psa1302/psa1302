@@ -2,7 +2,7 @@
 
 # Puneet Saini
 
-**Senior software engineer. Serial tinkerer.**
+**Senior Software Engineer. Serial Tinkerer.**
 
 Multi-agent AI systems for clean energy by day. Raspberry Pis, keyboards, 3D printing, and learning Japanese by night.
 
